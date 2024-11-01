@@ -2,7 +2,7 @@
 - 👀 I’m particularly interested in becoming a skilled programmer and diving deep into artificial intelligence.
 - 🌱 Currently, I’m learning the ins and outs of computer systems engineering, with a focus on programming, database management, and AI.
 - 💞️ I’m looking to collaborate on AI projects, software development, or anything that expands my skills in coding and problem-solving.
-- 📫 You can reach me through IG: daniel-maxo0.
+- 📫 You can reach me through IG: daniel_maxo0.
 - 😄 Pronouns: Maxo
 - ⚡ Fun fact: I’m always seeking ways to bring tech and creativity together, especially when it comes to enhancing user experiences!
 
